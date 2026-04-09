@@ -30,6 +30,8 @@ Revamped an existing website and added lightweight business functionality.
 
 Using AI-assisted tools, I introduced a workflow that allows users to browse products, add items to a cart, and send order details directly to the business owner via WhatsApp. This helped simplify the ordering process without requiring a full e-commerce setup.
 
+**Live site:** https://www.zyamadhari.in/
+
 ![Zyamadhari](./images/zyamadhari.png)
 
 ---
