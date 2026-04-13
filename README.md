@@ -1,3 +1,10 @@
+## Notes
+
+This repository is intended as a public showcase of selected projects. The production implementations were delivered for real clients and are maintained in private repositories.
+
+If you’d like to discuss the implementation approach or technical decisions behind these projects, feel free to reach out:
+- https://www.linkedin.com/in/kpdivya/
+
 # AI-powered Websites Showcase
 
 A public showcase of selected client-focused web projects delivered through Divlytics, combining AI-assisted workflows, cloud hosting, and practical problem-solving.
@@ -55,12 +62,3 @@ The website was structured to highlight certifications, experience, and testimon
 - Practical business-focused website delivery
 - Focus on simplicity, performance, and usability
 - Lightweight workflow enhancements for real-world use cases
-
----
-
-## Notes
-
-This repository is intended as a public showcase of selected projects. The production implementations were delivered for real clients and are maintained in private repositories.
-
-If you’d like to discuss the implementation approach or technical decisions behind these projects, feel free to reach out:
-- https://www.linkedin.com/in/kpdivya/
